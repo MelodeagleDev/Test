@@ -1,0 +1,1 @@
+export const SET_SWITCH_COUNT = "SET_SWITCH_COUNT";
